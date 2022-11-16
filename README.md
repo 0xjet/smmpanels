@@ -4,7 +4,7 @@
 ## Description
 This repository contains the dataset described in the paper:
 
-* D. Nevado-Catalan, S. Pastrana, N. Vallina-Rodiguez, J. Tapiador, and J. Caballero. "An Analysis of Fake Social Media Engagement Services." _Computers & Security_, To appear. [[link](tbd)]
+* D. Nevado-Catalan, S. Pastrana, N. Vallina-Rodiguez, and J. Tapiador. "An Analysis of Fake Social Media Engagement Services." _Computers & Security_, To appear. [[link](tbd)]
 
 There are 2 versions of the dataset:
  1. `raw_panels_dataset` An unprocessed version that resulted of the crawiling of the panels.
