@@ -1,10 +1,16 @@
 # SMM Panels Datasets
 
+
+## Description
+This repository contains the dataset described in the paper:
+
+* D. Nevado-Catalan, S. Pastrana, N. Vallina-Rodiguez, J. Tapiador, and J. Caballero. "An Analysis of Fake Social Media Engagement Services." _Computers & Security_, To appear. [[link](tbd)]
+
 There are 2 versions of the dataset:
  1. `raw_panels_dataset` An unprocessed version that resulted of the crawiling of the panels.
  2. `panels_dataset` A processed version of the previous dataset with extra fields for easier analysis.
 
-## Dataset description
+## Dataset
 
 Both datasets have the same structure.
 Each of them has 58 directories with the name of the an SMMPanel. In every panel
